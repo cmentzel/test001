@@ -1,5 +1,5 @@
 baseURL = "https://keen-wozniak-f6e530.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "nuo"
+theme = "ananke"
 publishDir = "docs"
